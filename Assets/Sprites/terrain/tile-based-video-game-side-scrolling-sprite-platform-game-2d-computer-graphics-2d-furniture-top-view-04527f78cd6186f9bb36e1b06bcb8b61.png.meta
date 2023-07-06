@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 8448abdad9bc7a14f9744c1f95d13cd2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 264
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a40411a2106e48855e2118b792c19
+      internalID: 2378729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 331
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68a5c28d79c5e42a713e50d4975c2d
+      internalID: -570927343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 251
+        width: 114
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284572a76e1fe7b4cb2d8b38c833d889
+      internalID: 1380649404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 206
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c3623c1ab6eb4796deac29624f76e
+      internalID: 1078573732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9bad9119b5fe4889bf7dd639689eb
+      internalID: 170952860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 250
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65245475b7bd14d86e3f79434513ff
+      internalID: 339365435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 200
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98b7ee9e454374882454284d8cf981
+      internalID: 622254151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c934de5ed350a474b82b29adb583737a
+      internalID: -749186107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a337da36b2c14e851f1e7a05258fd
+      internalID: -1140298824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719f3713d2114db4f9ae629af851fb7b
+      internalID: 785298962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b2597789b71694e9b1ccf7726c5b3d
+      internalID: 282042992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_4: 170952860
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_10: 282042992
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_8: -1140298824
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_3: 1078573732
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_2: 1380649404
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_6: 622254151
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_0: 2378729
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_9: 785298962
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_5: 339365435
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_1: -570927343
+      tile-based-video-game-side-scrolling-sprite-platform-game-2d-computer-graphics-2d-furniture-top-view-04527f78cd6186f9bb36e1b06bcb8b61_7: -749186107
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
